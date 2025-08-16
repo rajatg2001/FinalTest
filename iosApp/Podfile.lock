@@ -1,0 +1,23 @@
+PODS:
+  - composeApp (1.0):
+    - FLEX (= 5.22.10)
+  - FLEX (5.22.10)
+
+DEPENDENCIES:
+  - composeApp (from `../composeApp`)
+
+SPEC REPOS:
+  trunk:
+    - FLEX
+
+EXTERNAL SOURCES:
+  composeApp:
+    :path: "../composeApp"
+
+SPEC CHECKSUMS:
+  composeApp: da722f4462751bf78ac9e2ec717e72ced587129a
+  FLEX: f21ee4f498eed3f8a1eded66b21939fd3b7a22ce
+
+PODFILE CHECKSUM: 556dd4973887661e09a2b2c67d1e10478f57dd90
+
+COCOAPODS: 1.16.2
